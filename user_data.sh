@@ -19,7 +19,7 @@ echo "====================NPM version===================="
 npm -v
 
 echo "====================Cloning repository with Next.js project===================="
-git clone https://github.com/CarolinaSFreitas/Testando.git || { echo "Failed to clone repository"; exit 1; }
+git clone https://github.com/CarolinaSFreitas/emergentes-1804 || { echo "Failed to clone repository"; exit 1; }
 
 echo "====================Changing directory===================="
 cd Testando || { echo "Failed to change directory"; exit 1; }
