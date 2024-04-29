@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build", // Este é o script de build que está faltando
+    "build": "next build", 
     "start": "next start",
     "lint": "next lint"
 },
